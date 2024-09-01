@@ -1,1 +1,1 @@
-{"key1":"BDsnFQSasSNmnAncR7hnKFTBm","time":37}
+Hello, world!
